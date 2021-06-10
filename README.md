@@ -1,5 +1,9 @@
 # NgTetris
 
+## Tetris Game in Angular
+
+This project is based upon [this tutorial](https://medium.com/angular-in-depth/game-development-tetris-in-angular-64ef96ce56f7)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
 
 ## Development server
